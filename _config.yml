@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 
+title: 巅峰桌游社
 subtitle:
 description:
 author: 巅峰桌游社
@@ -102,7 +102,7 @@ copyright: true
 # Canonical, set a canonical link tag in your jekyll, you could use it for your SEO of blog.
 # See: https://support.google.com/webmasters/answer/139066
 # Tips: Before you open this tag, remember set up your URL in _config.yml ( ex. url: http://yourdomain.com )
-canonical: true
+canonical: false
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
 seo: false
@@ -132,7 +132,7 @@ menu:
 #   Key is the name of menu item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an question mask icon presenting up means that the item has no mapping icon.
 menu_icons:
-  enable: false
+  enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
@@ -151,9 +151,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
