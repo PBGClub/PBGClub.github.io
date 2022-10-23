@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: 
 subtitle:
 description:
-author: John Doe
+author: 巅峰桌游社
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh
 date_format: '%Y-%m-%d'
 
 # URL
@@ -123,7 +123,7 @@ menu:
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
-  #commonweal: /404.html
+  commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -132,7 +132,7 @@ menu:
 #   Key is the name of menu item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an question mask icon presenting up means that the item has no mapping icon.
 menu_icons:
-  enable: true
+  enable: false
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
